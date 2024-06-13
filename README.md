@@ -1,8 +1,5 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Shrikhand&size=40&duration=3000&pause=1000&color=CFCFCFC3&center=true&vCenter=true&random=false&width=500&height=70&lines=Hello%2C+I'm+ardkyer!%F0%9F%91%8B)]()
 
-![Snake animation](https://github.com/ardkyer/snake_animation/blob/output/github-contribution-grid-snake.svg)
-
-
 ![Snake animation](https://github.com/Pierluigi10/Pierluigi10/blob/output/github-contribution-grid-snake.svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ardkyer&show_icons=true&theme=radical)
