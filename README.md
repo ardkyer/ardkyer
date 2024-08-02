@@ -2,6 +2,8 @@
 
 ![Snake animation](https://github.com/Pierluigi10/Pierluigi10/blob/output/github-contribution-grid-snake.svg)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f7d4a0b3-6e02-4f8d-bcbf-f8b1181cc087/deploy-status)](https://app.netlify.com/sites/ardkyer/deploys)
+
 <details> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
