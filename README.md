@@ -1,7 +1,5 @@
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Shrikhand&size=40&duration=3000&pause=1000&color=CFCFCFC3&center=true&vCenter=true&random=false&width=500&height=70&lines=Hello%2C+I'm+ardkyer!%F0%9F%91%8B)]()
 
-![Snake animation](https://github.com/Pierluigi10/Pierluigi10/blob/output/github-contribution-grid-snake.svg)
-
+  
 <details> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
@@ -29,6 +27,9 @@
     <a href="https://www.instagram.com/kangh_9">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
+  <a href="https://ardkyer.github.io/">
+  <img src="https://img.shields.io/badge/MY%20BLOG-000000?style=for-the-badge&logo=ghost&logoColor=white" alt="My Blog" />
+</a>
 </div><br>
     
 ## 🔨 Once I've used 🔨
