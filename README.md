@@ -21,15 +21,18 @@
  
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
-    <a href="mailto:khg0207k@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    <a href="https://ardkyer.github.io/">
+        <img src="https://img.shields.io/badge/MY%20BLOG-000000?style=for-the-badge&logo=ghost&logoColor=white" alt="My Blog" />
     </a>
     <a href="https://www.instagram.com/kangh_9">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
-  <a href="https://ardkyer.github.io/">
-  <img src="https://img.shields.io/badge/MY%20BLOG-000000?style=for-the-badge&logo=ghost&logoColor=white" alt="My Blog" />
-</a>
+    <a href="mailto:khg0207k@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+    <a href="https://www.linkedin.com/in/%ED%98%84%EA%B5%AC-%EA%B0%95-683a5a314/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
 </div><br>
     
 ## 🔨 Once I've used 🔨
