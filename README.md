@@ -1,41 +1,18 @@
 
-  
-<details> 
-  <summary><h2>📊 Github Stats and Activity</h2></summary>
-
-  <h3>🔥 Streak Stats</h3>
-
-  <p>
-    <a href="https://github.com/ardkyer/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ardkyer's streak" src="https://streak-stats.demolab.com/?user=ardkyer&theme=monokai-metallian&hide_border=true"/>
-    </a>
-  </p>
-
-  <h3>💻 GitHub Profile Stats</h3>
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ardkyer's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ardkyer&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ardkyer's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ardkyer&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-<br/>
-
-</details>
- 
-## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-    <a href="https://ardkyer.github.io/">
-        <img src="https://img.shields.io/badge/MY%20BLOG-000000?style=for-the-badge&logo=ghost&logoColor=white" alt="My Blog" />
-    </a>
-    <a href="https://www.instagram.com/kangh_9">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a>
-    <a href="mailto:khg0207k@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-    <a href="https://www.linkedin.com/in/%ED%98%84%EA%B5%AC-%EA%B0%95-683a5a314/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-</div><br>
     
-## 🔨 Once I've used 🔨
+## 🌌 [My Tech Universe](https://ardkyer.github.io/tech-stack-3d)
+
+
+<a href="https://ardkyer.github.io/tech-stack-3d">
+    <img src="https://img.shields.io/badge/My%20Tech%20Universe%20←%20Click-001F3F?style=for-the-badge&logo=stackshare&logoColor=white" alt="My Tech Universe" />
+</a>
+
+
+
+
+<br>
+<br>
+
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
@@ -86,3 +63,50 @@
     </div>
 </div><br>
 </div>
+
+
+
+
+  
+<details> 
+  <summary><h2>📊 Github Stats and Activity</h2></summary>
+
+  <h3>🔥 Streak Stats</h3>
+
+  <p>
+    <a href="https://github.com/ardkyer/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ardkyer's streak" src="https://streak-stats.demolab.com/?user=ardkyer&theme=monokai-metallian&hide_border=true"/>
+    </a>
+  </p>
+
+  <h3>💻 GitHub Profile Stats</h3>
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ardkyer's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ardkyer&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ardkyer's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ardkyer&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+<br/>
+
+</details>
+
+
+
+ 
+## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="https://ardkyer.github.io/">
+        <img src="https://img.shields.io/badge/MY%20BLOG-000000?style=for-the-badge&logo=ghost&logoColor=white" alt="My Blog" />
+    </a>
+    <a href="https://www.instagram.com/kangh_9">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
+    <a href="mailto:khg0207k@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+    <a href="https://www.linkedin.com/in/%ED%98%84%EA%B5%AC-%EA%B0%95-683a5a314/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+</div><br>
+
+
+
+
+
