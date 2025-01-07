@@ -71,13 +71,6 @@
 
 <h2>📊 Github Stats and Activity</h2>
 
-  <h3>🔥 Streak Stats</h3>
-
-  <p>
-    <a href="https://github.com/ardkyer/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ardkyer's streak" src="https://streak-stats.demolab.com/?user=ardkyer&theme=monokai-metallian&hide_border=true"/>
-    </a>
-  </p>
 
   <h3>💻 GitHub Profile Stats</h3>
 
