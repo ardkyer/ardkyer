@@ -28,7 +28,7 @@
 
 ### ⚙️ Backend
 
-![My Languages](https://skillicons.dev/icons?i=spring,fastapi,ruby)
+![My Languages](https://skillicons.dev/icons?i=spring,fastapi,django)
 
 ### 🖋️ Frontend
 
